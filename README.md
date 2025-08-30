@@ -1,2 +1,3 @@
 # InstallerForThings
-This is for specific use cases (aka, when you want something on your school chromebook)
+This is for specific use cases
+If it doesn't work, please create an Issue in the Issues Tab
